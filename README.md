@@ -1,90 +1,113 @@
-<!-- 🌟 Aashutosh Pandey | Professional GitHub Profile -->
+# Hey there 👋 I'm Aashutosh Pandey
 
-<h1 align="center">Hi, I'm Aashutosh Pandey 👋</h1>
-
-<p align="center">
-  <strong>Software Engineer | AI & Cloud Enthusiast | Lifelong Learner</strong>  
-</p>
+<h3 align="center">Architecting Intelligent Systems • Backend Engineering • Problem Solving</h3>
 
 <p align="center">
-  📍 Bangalore, India • 💻 CSE @ VTU  
-  <br/>
-  <a href="mailto:pandeyaashu0005@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/itsAashutosh">💼 GitHub</a> • 
-  <a href="https://www.linkedin.com/in/aashutoshpandey01/">🔗 LinkedIn</a>
+I build software that <b>thinks, scales, and survives real-world usage</b>.<br/>
+Most of my work lives at the intersection of <b>AI + backend systems + engineering clarity</b>.<br/>
+<b>I don't just write code — I design behavior.</b>
 </p>
 
 ---
 
-### 🧠 About Me  
+## 🧠 About Me
 
-I'm a **Computer Science and Engineering** student passionate about building intelligent, scalable, and efficient software systems.  
-My interests lie in **Artificial Intelligence**, **Web Development**, and **Cloud Computing** — currently exploring **Reinforcement Learning for Stock Trading**.
-
-I enjoy transforming concepts into working solutions and continuously improving my craft through new technologies and problem-solving challenges.
-
----
-
-### 🧩 Technical Toolbox  
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| **Languages** | Python, Java, C, JavaScript, HTML, CSS |
-| **Frameworks / Libraries** | Flask, Spring Boot, Hibernate, NumPy, Pandas |
-| **Databases / Cloud** | MySQL, MongoDB, AWS, Cloud Computing |
-| **Tools & Platforms** | VS Code, Git, GitHub, XAMPP |
-| **Core CS Areas** | DSA, OOP, DBMS, Operating Systems, DevOps, AI, ML |
+* 🏗️ Interested in **System Design & Scalable Architectures**
+* 🤖 Working with **Machine Learning & Reinforcement Learning**
+* 🔐 Exploring **Security & Encryption Concepts**
+* 🌍 Building solutions for real-world problems
+* 📚 Constant learner — curiosity over memorization
 
 ---
 
-### 🧭 Leadership & Experience  
+## 🔭 Currently Exploring
 
-**President — MLSA x SDI Club (Dec 2024 – Present)**  
-• Leading cross-functional student teams for technical events and workshops.  
-• Expanding outreach through developer-focused initiatives and mentorship.  
-
-**Organizing Committee — amBITion Hackathon (June – July 2024)**  
-• Oversaw logistics, event coordination, and participant engagement.  
-• Contributed to end-to-end management ensuring seamless execution.  
+`Distributed Systems` • `Backend Performance` • `Applied AI` • `Linux Internals`
 
 ---
 
-### 🚀 Professional Interests  
+## 💡 What I Like Building
 
-💡 Artificial Intelligence & Machine Learning  
-🧱 Web Application Development  
-☁️ Cloud Systems & DevOps  
-🧭 Software Architecture & Scalable APIs  
+* Intelligent decision systems
+* Reliable APIs
+* Automation tools
+* Data-driven applications
 
 ---
 
-### ⚙️ GitHub Analytics  
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge\&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge\&logo=mysql)
+
+### Backend & Frameworks
+
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge\&logo=flask)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-111?style=for-the-badge\&logo=springboot)
+![NodeJS](https://img.shields.io/badge/NodeJS-111?style=for-the-badge\&logo=node.js)
+![REST](https://img.shields.io/badge/REST_API-111?style=for-the-badge\&logo=fastapi)
+
+### AI / Data
+
+![Scikit](https://img.shields.io/badge/ScikitLearn-111?style=for-the-badge\&logo=scikitlearn)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge\&logo=tensorflow)
+![CV](https://img.shields.io/badge/ComputerVision-111?style=for-the-badge\&logo=opencv)
+![RL](https://img.shields.io/badge/ReinforcementLearning-111?style=for-the-badge)
+
+### Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge\&logo=mysql)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge\&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge\&logo=docker)
+
+---
+
+## 🚀 Projects
+
+| Project             | Description                        | Tech               |
+| ------------------- | ---------------------------------- | ------------------ |
+| RL Stock Trading    | Q-Learning trading decision system | Python, RL         |
+| AI Helmet Detection | Computer vision safety detection   | YOLO, Flask        |
+| Movie REST API      | Scalable backend service           | Spring Boot, MySQL |
+| ATM Encryption      | Secure transaction protection      | Java, Cryptography |
+| Tiny Tot Management | Student record management platform | Full Stack         |
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsAashutosh&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsAashutosh&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAashutosh&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
-### 📫 Connect With Me  
+## 🧭 Philosophy
 
-<p align="center">
-  <a href="mailto:pandeyaashu0005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/itsAashutosh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aashutoshpandey01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> Build simple first.
+> Optimize later.
+> Understand always.
 
 ---
 
-<h4 align="center">✨ "Engineering solutions through curiosity, precision, and innovation." ✨</h4>
+## 📫 Connect With Me
+
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* LinkedIn: add-your-link
+* Email: your-email
+
+---
+
+## ⚡ Fun
+
+Badminton • Systems thinking • Exploring ideas • Tech discussions
