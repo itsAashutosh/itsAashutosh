@@ -79,7 +79,6 @@ Most of my work lives at the intersection of <b>AI + backend systems + engineeri
 
 ---
 
-## 📊 GitHub Activity
 
 ## 📊 GitHub Activity
 
