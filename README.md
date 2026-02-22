@@ -80,13 +80,11 @@ Most of my work lives at the intersection of <b>AI + backend systems + engineeri
 ---
 
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsAashutosh&theme=tokyonight" height="165"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsAashutosh&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsAashutosh&theme=tokyonight" />
 </p>
----
 
 ## 🧭 Philosophy
 
