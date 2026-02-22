@@ -84,11 +84,7 @@ Most of my work lives at the intersection of <b>AI + backend systems + engineeri
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsAashutosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://streak-stats.demolab.com?user=itsAashutosh&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAashutosh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 
