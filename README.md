@@ -105,8 +105,7 @@ Most of my work lives at the intersection of <b>AI + backend systems + engineeri
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/itsAashutosh](https://github.com/itsAashutosh)
-* LinkedIn: add-your-link
-* Email: your-email
+* Email: [pandeyaashu0005@gmail.com](pandeyaashu0005@gmail.com)
 
 ---
 
