@@ -50,6 +50,13 @@ Most of my work lives at the intersection of <b>AI + backend systems + engineeri
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
 
+![Reinforcement Learning](https://img.shields.io/badge/ReinforcementLearning-111?style=for-the-badge)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-111?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-111?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/DistributedSystems-111?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![DevOps](https://img.shields.io/badge/DevOps-111?style=for-the-badge)
+
 ## 🛠️ Tech Stack
 
 ### Languages
